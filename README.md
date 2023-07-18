@@ -1,6 +1,7 @@
-### Hi there 👋, My Name is Mursalin
-#### I am MERN stack web Developer
 ![I am MERN stack web Developer](https://media.licdn.com/dms/image/D4E16AQGS3G299W7d8A/profile-displaybackgroundimage-shrink_350_1400/0/1685376630481?e=1695254400&v=beta&t=5fT7hGx3SbPMmuqeUvOl3HT7iKd3yK_uECTHqiDGzDg)
+### Hi there 👋, My Name is Mursalin
+
+
 
 My name is Mursalin Hossain, a 23-year-old aspiring web developer with a passion for writing clean and error-free code. I've been on this exciting web development journey for the past year, constantly learning and exploring new technologies. I'm on a mission to become an expert in the field of web development by embracing the joy of continuous learning and keeping up with the latest trends.
 

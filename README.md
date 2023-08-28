@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tigermursa" alt="tigermursa" /></a> </p>
 
-- 🔭 I’m currently working on [Grocery store](https://github.com/tigermursa/grocery-store-client/tree/master)
+- 🔭 I’m currently working on [Food Hunter ](https://github.com/tigermursa/grocery-store-client/tree/master)
 
 - 🌱 I’m currently learning **Next js**
 

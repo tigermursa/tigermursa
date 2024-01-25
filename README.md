@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mursalin</h1>
-<h2 align="center" font-weight="bold">
-🌟✨ Welcom to my GitHub! ✨🌟 <br/> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">I am Mursalin, a junior front-end developer. 
-</h2>
+<p align="center">
+  <a href="https://github.com/KK-9684">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=+Senior%20Front%20End%20Developer;Full%20Stack%20Developer;8%2B%20years%20of%20rich%20IT%20experience;&font=Anton&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22">
+  </a>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tigermursa&label=Profile%20views&color=0e75b6&style=flat" alt="tigermursa" /> </p>
 

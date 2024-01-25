@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mursalin</h1>
 <p align="center">
-  <a href="https://github.com/KK-9684">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=+Senior%20Front%20End%20Developer;Full%20Stack%20Developer;8%2B%20years%20of%20rich%20IT%20experience;&font=Anton&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22">
-  </a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Futura&weight=700&size=30&duration=5001&pause=1000&color=22ABF7&random=false&width=435&lines=Junior+Front+end+Developer;3-month+Internship+Experience;Main+Library+React.js;Main+Framework+next.js;+Database+MongoDB;Backend+language+Node+js" alt="Typing SVG" /></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tigermursa&label=Profile%20views&color=0e75b6&style=flat" alt="tigermursa" /> </p>

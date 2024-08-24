@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [ Chat App ](https://github.com/tigermursa/teachat-client)
 
-- 🌱 I’m currently learning **Next js**
+- 🌱 I’m currently learning **Socket.io**
 
 - 🤝 I’m looking for help with **Getting Intenship /job**
 

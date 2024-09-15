@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Socket.io**
 
-- 🤝 I’m looking for help with **Getting Intenship /job**
+- 🤝 I’m looking for help with **DSA**
 
 - 👨‍💻 All of my projects are available at [https://mursalin-reactcv.web.app/](https://mursalin-reactcv.web.app/)
 

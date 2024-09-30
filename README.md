@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mursalin</h1>
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Futura&weight=700&size=30&duration=5001&pause=1000&color=22ABF7&random=false&width=435&lines=Junior+Front+end+Developer;8+-months+work+Experience;Main+Library+React.js;Main+Framework+next.js;+Database+MongoDB;Backend+with+Node+js" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Futura&weight=700&size=30&duration=5001&pause=1000&color=22ABF7&random=false&width=435&lines=Junior+Front+end+Developer;8+-months+work+Experience;Main+Library+React.js;Main+Framework+next.js;+Database+MongoDB;Backend+with+Node+js;Learning DSA!" alt="Typing SVG" /></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tigermursa&label=Profile%20views&color=0e75b6&style=flat" alt="tigermursa" /> </p>

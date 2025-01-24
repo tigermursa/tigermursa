@@ -1,54 +1,48 @@
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mursalin77/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-%23121011?style=flat-square&logo=github)](https://github.com/tigermursa)
-[![Discord](https://img.shields.io/badge/Discord-Join-%237289DA?style=flat-square&logo=discord)](https://discord.gg/mursalin1)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&size=28&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&height=60&lines=%F0%9F%94%A5+Full-Stack+Code+Gladiator;%F0%9F%92%BB+Architecting+Digital+Dominance;%F0%9F%9A%80+1ms+Faster+Every+Day" alt="Typing SVG" />
+</p>
 
-# 🛠️ Tech Stack & Tools
+## ⚔️ WARRIOR'S ARSENAL
 
-### **Core Expertise**
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+### **Core Weapons**
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=000000)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=000000)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=000000)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white&labelColor=DEA584)
 
-### **Frontend Mastery**
-![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwind-css)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux)
-![React Query](https://img.shields.io/badge/-React_Query-FF4154?logo=react-query)
+### **Frontend Artillery**
+![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=000000)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white&labelColor=000000)
+![Three.js](https://img.shields.io/badge/-Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white&labelColor=000000)
 
-### **Backend & DB**
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql)
+### **Database Dominance**
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=000000)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=000000)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=000000)
 
-### **DevOps & Cloud**
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase)
+### **Infrastructure Siege**
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900&labelColor=000000)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=000000)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=000000)
 
-### **Tools**
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code)
-
-# 📈 Development Activity
+## 🔥 BATTLE STATS
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tigermursa&show_icons=true&theme=radical&hide_title=true)](https://github.com/tigermursa)
-  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tigermursa&layout=compact&theme=radical&hide_border=true)](https://github.com/tigermursa)
+[![GitHub Streak](https://streak-stats.demolab.com?user=tigermursa&theme=black-ice&hide_border=true&border_radius=6&date_format=j%20M%5B%20Y%5D&background=000000&stroke=FFD700)](https://git.io/streak-stats)
 
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=tigermursa&theme=react-dark&hide_border=true)](https://github.com/tigermursa)
+[![Commits Snake](https://raw.githubusercontent.com/tigermursa/tigermursa/output/github-contribution-grid-snake-dark.svg)](https://github.com/tigermursa)
 
-</div>
+![Battle Metrics](https://github-readme-stats.vercel.app/api?username=tigermursa&show_icons=true&theme=black-ice&hide_border=true&bg_color=000000&title_color=FFD700&icon_color=00FF00&text_color=FFFFFF)
 
----
-
-<div align="center">
-  
-👨💻 **"First, solve the problem. Then, write the code."** - John Johnson
-  
-![Visitor Count](https://komarev.com/zh/ghpvc/?username=tigermursa&color=blueviolet&style=flat)
+![Top Weapons](https://github-readme-stats.vercel.app/api/top-langs/?username=tigermursa&layout=compact&theme=black-ice&hide_border=true&bg_color=000000&title_color=FFD700&text_color=FFFFFF)
 
 </div>
+
+## 💥 RECENT VICTORIES
+```mermaid
+graph LR
+    A[10k+ Lines Written] --> B[15+ Projects Conquered]
+    B --> C[99.9% Uptime Achieved]
+    C --> D[Zero Downtime Deployments]
+    D --> E[Continuous Dominance]

@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&size=30&duration=4000&pause=1000&color=00B4D8&background=0D111700&center=true&vCenter=true&width=800&height=60&lines=%E2%9A%99%EF%B8%8F+Full-Stack+Architect;%F0%9F%8C%90+Cloud+Conqueror;%F0%9F%94%A5+Performance+Alchemist" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&size=30&duration=4000&pause=1000&color=00B4D8&background=0D111700&center=true&vCenter=true&width=800&height=60&lines=%E2%9A%99%EF%B8%8F+Full-Stack+Developer;%F0%9F%8C%90+Cloud+Enthusiast;%F0%9F%94%A5+Performance+Optimizer" alt="Typing Animation" />
 </p>
 
 ## 🌌 Tech Nebula
 
 <div align="center">
 
-[![Skill Radar](https://skillicons.dev/icons?i=ts,nextjs,react,nodejs,aws,docker,mongodb,postgres,graphql,tailwind,redux,threejs&theme=dark&perline=6)](https://skillicons.dev)
+[![Skill Radar](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,mongodb,postgres,redux,express,nextjs,docker,aws,tailwind,figma,bootstrap,alpinejs,vercel,shopify&theme=dark&perline=6)](https://skillicons.dev)
 
 </div>
 
